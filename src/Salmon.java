@@ -1,4 +1,3 @@
-import java.sql.SQLOutput;
 import java.util.Scanner;
 /*
 Your task is to write a program that takes the month of the year as an integer and outputs if it is
